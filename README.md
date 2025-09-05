@@ -85,7 +85,7 @@ This app allows users to **create, read, update, and delete (CRUD)** todos with 
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/rohitsolanki01/TODO_APPLICATION-.git
 cd todo-app
 
 
