@@ -38,25 +38,43 @@ This app allows users to **create, read, update, and delete (CRUD)** todos with 
   todo-app/
 │
 ├── backend/
+
 │ ├── models/
+
 │ │ └── todo.js
+
 │ ├── routes/
+
 │ │ └── todoRoutes.js
+
 │ ├── types/
+
 │ │ └── todoValidation.js
+
 │ ├── server.js
+
 │
 ├── frontend/
+
 │ ├── src/
+
 │ │ ├── components/
+
 │ │ │ ├── CreateTodo.jsx
+
 │ │ │ ├── Todo.jsx
+
 │ │ │ └── EditTodo.jsx
+
 │ │ ├── App.jsx
+
 │ │ └── main.jsx
+
 │ ├── package.json
+
 │
 └── README.md
+
 
 
 
@@ -111,6 +129,5 @@ GitHub: @https://github.com/rohitsolanki01
 
 ---
 
-Do you want me to also make a `.gitignore` file for your project (both **frontend + backend** setup)?
 
 
